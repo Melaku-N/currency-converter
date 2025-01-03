@@ -37,7 +37,7 @@ This is a simple web application that allows users to convert currencies in real
 
 1. Open the application in your browser:
    ```bash
-   cd currency-converter
+   http://localhost:5173/
    ```
 2. Select currencies, enter an amount and view the conversion result.
 
