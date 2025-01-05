@@ -41,6 +41,10 @@ This is a simple web application that allows users to convert currencies in real
    ```
 2. Select currencies, enter an amount and view the conversion result.
 
+## Deployment
+
+[Currency Converter](https://currency-converter-chi-bay.vercel.app/)
+
 ## License
 
 This Project is open-source and available under the MIT License.
